@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# NewProjOct8
+#
+
+projectname: NewProjOct8
+vendorid: com.mycompany.Oct8
+mainmodule: com.mycompany.Oct8.newprojoct8
